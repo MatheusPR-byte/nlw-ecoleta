@@ -36,5 +36,5 @@ responsividade do index.html, e implementação do JavaScript.
 
 **A aplicação é instituida pelas API-s da IBGE:**
 
-[Municipios](https://servicodados.ibge.gov.br/api/v1/localidades/estados/33%7C35/municipios
-[Estados] (https://servicodados.ibge.gov.br/api/v1/localidades/estados)
+[Municipios](https://servicodados.ibge.gov.br/api/v1/localidades/estados/33%7C35/municipios/
+[Estados](https://servicodados.ibge.gov.br/api/v1/localidades/estados/)
