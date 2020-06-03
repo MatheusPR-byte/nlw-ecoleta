@@ -11,11 +11,14 @@ pelo necessário para em nossa sociedade.
 
 
 
+
+
 **A pimeira adição ao Projeto.**
 
 Aqui foi realizado a pagina principal do projeto,
 com a utilização do CSS, e HTML.
-index.html, main.css.
+-index.html
+-main.css.
 
 
 ![imagem1](https://user-images.githubusercontent.com/65434919/83590339-ec9b5100-a52b-11ea-979c-2227914c7795.png)
