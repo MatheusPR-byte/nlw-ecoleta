@@ -34,7 +34,7 @@ responsividade do index.html, e implementação do JavaScript.
 
 ![imagem2](https://user-images.githubusercontent.com/65434919/83590455-28361b00-a52c-11ea-8ddb-32f995ba6ef9.png)
 
-**A aplicação é instituida pelas API-s da IBGE:
+**A aplicação é instituida pelas API-s da IBGE:**
 
-- [Municipios](https://servicodados.ibge.gov.br/api/v1/localidades/estados/33%7C35/municipios
-- [Estados] (https://servicodados.ibge.gov.br/api/v1/localidades/estados)
+[Municipios](https://servicodados.ibge.gov.br/api/v1/localidades/estados/33%7C35/municipios
+[Estados] (https://servicodados.ibge.gov.br/api/v1/localidades/estados)
