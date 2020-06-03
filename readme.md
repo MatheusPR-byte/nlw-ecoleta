@@ -28,8 +28,11 @@ com a utilização do CSS, e HTML.
 
 Segunda realização do projeto, com uma atualização na
 responsividade do index.html, e implementação do JavaScript.
-
-
+- create-point.html
+- create-point.css
+- home.css
+- responsive.css
+- create-point.js
 
 ![imagem2](https://user-images.githubusercontent.com/65434919/83590455-28361b00-a52c-11ea-8ddb-32f995ba6ef9.png)
 
