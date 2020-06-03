@@ -13,7 +13,7 @@ index.html, main.css.
 ![imagem1](https://user-images.githubusercontent.com/65434919/83590339-ec9b5100-a52b-11ea-979c-2227914c7795.png)
 
 
-**Secunda adição ao Projeto.**
+**Segunda adição ao Projeto.**
 
 Segunda realização do projeto, com uma atualização na
 responsividade do index.html, e implementação do JavaScript.
