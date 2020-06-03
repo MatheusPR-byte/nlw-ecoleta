@@ -3,11 +3,11 @@
 ![Untitled](https://user-images.githubusercontent.com/65434919/83586231-49920980-a522-11ea-9b8a-703b72e4145d.png)
 
 
-***Qual é o propósito do projeto?***
+**Qual é o propósito do projeto?**
 
-***Especificadamente é uma realização criada onde empresas, e pessoas poderão localizar 
+**Especificadamente é uma realização criada onde empresas, e pessoas poderão localizar 
 pontos de coleta de lixo não-recicláveis, com o objetivo da facilitação, e uma melhora na conscientização das pessoas nas buscas
-pelo que é necessário para a nossa sociedade.***
+pelo que é necessário para a nossa sociedade.**
 
 
 
