@@ -1,4 +1,4 @@
-# PROJETO NEXT LEVEL 
+# PROJETO NEXT LEVEL
 
 ![Untitled](https://user-images.githubusercontent.com/65434919/83586231-49920980-a522-11ea-9b8a-703b72e4145d.png)
 
@@ -36,7 +36,7 @@ responsividade do index.html, e implementação do JavaScript.
 
 # Informações
 
-**As aulas starter está sendo ministrada pelo** [**Mayk Brito**](https://br.linkedin.com/in/maykbrito) **professor da [RocketSeat](https://rocketseat.com.br/)**
+**As aulas starter está sendo ministrada pelo** [**Mayk Brito**](https://br.linkedin.com/in/maykbrito) **tutor da [RocketSeat](https://rocketseat.com.br/)**
 
 
 **A aplicação é instituida pelas API-s da IBGE:** [**Municipios API**](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet) [**Estados API**](https://servicodados.ibge.gov.br/api/v1/localidades/estados/)
