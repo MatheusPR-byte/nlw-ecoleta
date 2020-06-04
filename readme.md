@@ -6,7 +6,7 @@
 **Qual é o propósito do projeto?**
 
 >Especificadamente é uma realização criada onde empresas poderão criar, e pessoas poderão localizar 
-pontos de coleta de lixo não-recicláveis, com o objetivo da facilitação, e uma melhora na conscientização das pessoas nas buscas
+pontos de coleta de lixo não-recicláveis, com o objetivo da facilitação, e uma melhora na conscientização, e da facilitação das pessoas nas buscas
 pelo necessário em nossa sociedade.
 
 
