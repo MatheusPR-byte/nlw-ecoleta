@@ -39,11 +39,11 @@ A terceira adição foi muito importante, nós ainda mais adentramos no JavaScri
 um painél meramente intuitivo de botões na **Area do cadastro do ponto de coleta**, e conseguimos criar uma nova página ao nosso site, a página de pesquisa, onde será possivel localizar os pontos de coleta registrados originalmente pelo própio Site.
 Uma aula bastante repleta de **HTML, CSS, e JS.**
 
--search-results.html
--home.css
--index.js
--search-results.css
--modal.css
+- search-results.html
+- home.css
+- index.js
+- search-results.css
+- modal.css
 
 ![atualizadojava](https://user-images.githubusercontent.com/65434919/83701805-372ad500-a5e1-11ea-8a64-bb8492659d14.png)
 ![atualizado1](https://user-images.githubusercontent.com/65434919/83701809-3a25c580-a5e1-11ea-94fc-9c88fd3f487a.png)
