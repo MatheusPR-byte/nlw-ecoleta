@@ -35,8 +35,9 @@ responsividade do index.html, e implementação do JavaScript.
 
 **Terceira adição ao Projeto.**
 
-A terceira adição foi muito importante, nós ainda mais adentramos no JavaScript, e consequentemente realizamos
-um painél meramente intuitivo de botões na **Area do cadastro do ponto de coleta**, e conseguimos criar uma nova página ao nosso site, a página de pesquisa, onde será possivel localizar os pontos de coleta registrados originalmente pelo própio Site.
+A terceira adição ao projeto, uma aula bastante completa, onde nós ainda mais adentramos ao JavaScript. Consequentemente realizamos
+um painél meramente intuitivo de botões na **Area do cadastro do ponto de coleta.**, e conseguimos criar uma nova página ao nosso site, a página de pesquisa com um auxílio do Modal na parte de pré-pagina, onde será possivel localizar os pontos de coletas disponiveis no site, e a verificação se há pontos disponíveis no lugar pesquisado.
+
 Uma aula bastante repleta de **HTML, CSS, e JS.**
 
 - search-results.html
