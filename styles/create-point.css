@@ -39,7 +39,7 @@ juntamente com a adição do display: flex; e align-items: para o alinhamento da
     background-image: url(../assets/arrow-left.svg);
 
     /* align-item, width, heigth, correspondeu com o alinhamento da imagem de seta,
-    foi aumentado 3 pixels do padrão 20, para o alinhamento ser correspondido a palavra */
+    foi aumentado 3 pixels do padrão 20, para o alinhamento da imagem, ser correspondido a palavra */
 
     display: flex;
     
@@ -53,17 +53,15 @@ form {
     background-color: white;
     
     /* preenchimento paading, a região branca */
+    margin: 80px auto;
     padding: 64px;
-    margin: 0 auto;
     /* espaçamento do preenchimento entre as palavras */
     margin-top: 80px;
 
     /* arrendondamento do canto do preenchimento */
     border-radius: 8px;
 
-    max-width: 730px;
-
-    box-sizing: border-box;
+    max-width: 730px
 }
 
 
@@ -137,8 +135,56 @@ form button {
     margin-top: 40px;
 
     transition: background-color 400ms;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.705);
+    border-radius: 40px;
 }
 
 form button:hover{
     background-color: #2fb86e
+}
+
+.items-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+}
+ 
+.items-grid li {
+    background-color: #f0f0f5;
+    list-style: none;
+
+    border: 2px solid #f5f5f5;
+    border-radius: 8px;
+
+    height: 180px;
+
+    padding: 32px 24px 16px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: space-between;
+    
+    text-align: center;
+    
+    cursor: pointer;
+}
+
+.items-grid li span {
+    flex: 1;
+
+    display: flex;
+    align-items: center;
+
+    color: #322153
+}
+
+.items-grid li.selected {
+    background: #e1faec;
+    border: 2px solid #34cb79; 
+}
+
+.items-grid li img,
+.items-grid li span {
+    pointer-events: none;
 }

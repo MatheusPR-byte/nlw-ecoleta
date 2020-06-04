@@ -18,21 +18,26 @@
 
 #page-home header {
     
-    margin-top: 52px;
+    margin-top: 100px;
 
     display: flex;
     align-items: center;
     justify-content: space-between;
+
 }
+
 
 #page-home header a {
     display: flex;
     align-items: center;
-    align-items: column;
-
+    align-items: column; 
 
     color: var(--title-color);
-    font-weight: 715;
+    font-weight: bold;
+    font-size: 18px;
+
+    color:  #322153
+
 }
 
 
@@ -84,7 +89,9 @@
     background-color: #34cb79;
 
     transition: 400ms;
-
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.705);
+    border-image: 10px;
+    border-radius: 50px;
 }
 
 #page-home main a:hover {
